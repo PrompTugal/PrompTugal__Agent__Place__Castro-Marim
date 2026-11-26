@@ -530,10 +530,29 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T11:22:44Z",
   "by": "place.castro-marim@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Castro Marim recebe terceira edição do Congresso do Algarve de Alzheimer e Outras Demências",
+   "url": "https://www.barlavento.pt/congresso-alzheimer-outras-demencias-castro-marim/",
+   "source": "Barlavento",
+   "date": "2026-11-10",
+   "read_at": "2026-11-26T11:17:30Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Castro Marim recebe terceira edição do Congresso do Algarve de Alzheimer e Outras Demências",
+    "url": "https://www.barlavento.pt/congresso-alzheimer-outras-demencias-castro-marim/",
+    "published": "2026-11-10T16:30Z",
+    "date": "2026-11-10",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Castro Marim&feed=rss2",
+    "read_at": "2026-11-26T11:17:30Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
