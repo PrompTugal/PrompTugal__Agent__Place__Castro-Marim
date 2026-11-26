@@ -1,0 +1,41 @@
+# Provenance: Castro Marim (castro-marim)
+
+Every file below was copied unchanged (inbox tokens blanked) into this folder from a PrompTugal repository, on the original path (website files at `history/<path>`, other repositories at `history/other-repos/<repo>/<path>`). Nothing was deleted at the source. Files marked *shared* are the by-place programme's common documents, copied into every place. `README-rows.md` was written here from the guidance README.
+
+Files copied: 33
+
+| Source repository | Path | Last commit | Date | Note |
+|---|---|---|---|---|
+| PrompTugal__News__Website | `board/abp/place.castro-marim.md` | [ed328db990](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ed328db990a930111998064a051d797bcef15f2b) | 2026-11-24T00:14:09+00:00 |  |
+| PrompTugal__News__Website | `board/briefs/2026-11-15-the-place-agents.md` | [d1475ada03](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d1475ada03831550087a011abdd7b971ae22f20e) | 2026-11-15T21:44:31+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-14-promptugal-by-place.md` | [263f2e711d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/263f2e711de07695d1f1b7e6211886e54fc45377) | 2026-11-15T21:08:07+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-live-local-signals-and-what-is-local.md` | [9d82d992dc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d82d992dcfde0edcef4a4f2f78230ed74973187) | 2026-11-16T00:33:06+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-the-home-page-is-the-places-and-the-districts.md` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/inboxes/place.castro-marim.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/inboxes/site.castro-marim.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-15T21-48-51Z.json` | [c2f43ef47a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c2f43ef47abe99716649bc54850b1715519d77eb) | 2026-11-15T21:59:58+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-15T21-59-58Z.json` | [368e6daa2e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/368e6daa2ef7a79ecc56e034e8ad6696974aa4f3) | 2026-11-15T22:54:01+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-15T23-52-25Z.json` | [bea2a9067c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/bea2a9067c2b42f5d1e6f07e4b56598abb018937) | 2026-11-16T00:53:25+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T01-52-33Z.json` | [6a3ad881b4](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6a3ad881b46fe14614bc5ca49a6cf22489fadc96) | 2026-11-16T01:54:01+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T01-55-59Z.json` | [2e37a0fc57](https://github.com/PrompTugal/PrompTugal__News__Website/commit/2e37a0fc5764aee7af01f36d558cc409319d360b) | 2026-11-16T02:53:49+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T03-52-40Z.json` | [7e963f2177](https://github.com/PrompTugal/PrompTugal__News__Website/commit/7e963f2177a4faf7d8cefa3db0cbaa79ad42def0) | 2026-11-16T04:53:22+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T05-52-36Z.json` | [3c22be38ea](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3c22be38ea73f882db1bd3cd8eb93479a5849308) | 2026-11-16T05:54:02+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T06-53-32Z.json` | [f19bb1ff2c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f19bb1ff2c944b8db9ed94f75c6889fc346f1479) | 2026-11-16T06:53:49+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.castro-marim/2026-11-16T20-09-12Z.json` | [f3cca1c227](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f3cca1c227552b880cbc40371806bb0c7e6b351f) | 2026-11-16T20:10:19+00:00 |  |
+| PrompTugal__News__Website | `board/team/conductor/place-agents.json` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/team/place.castro-marim/debriefs/2026-11-15-handover.md` | [c2f43ef47a](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c2f43ef47abe99716649bc54850b1715519d77eb) | 2026-11-15T21:59:58+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.castro-marim/debriefs/2026-11-16-account-move.md` | [f3cca1c227](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f3cca1c227552b880cbc40371806bb0c7e6b351f) | 2026-11-16T20:10:19+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.castro-marim/debriefs/2026-11-16-handover.md` | [f19bb1ff2c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f19bb1ff2c944b8db9ed94f75c6889fc346f1479) | 2026-11-16T06:53:49+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.castro-marim/status.json` | [f3cca1c227](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f3cca1c227552b880cbc40371806bb0c7e6b351f) | 2026-11-16T20:10:19+00:00 |  |
+| PrompTugal__News__Website | `board/the-account-move.md` | [09d30f431c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/09d30f431cec35e4414920e788a92108dc4a08e4) | 2026-11-06T22:43:20+00:00 | shared;  |
+| PrompTugal__News__Website | `data/by-place/castro-marim.json` | [892e2ef434](https://github.com/PrompTugal/PrompTugal__News__Website/commit/892e2ef4347f92573bd2de91c3456940b75c454c) | 2026-11-20T07:42:52+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/castro-marim.json.sig` | [892e2ef434](https://github.com/PrompTugal/PrompTugal__News__Website/commit/892e2ef4347f92573bd2de91c3456940b75c454c) | 2026-11-20T07:42:52+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/now/castro-marim.json` | [118389375e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/118389375ec7accb8e9a60a5d60f2ebf2a1af702) | 2026-11-26T01:14:52+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/places.json` | [9d35400d1b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d35400d1baf1c414fa70f6a05642e4f4d7db3e0) | 2026-11-16T13:31:42+00:00 | shared;  |
+| PrompTugal__News__Website | `data/places/castro-marim/place.json` | [e2a97608b8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e2a97608b89f06559d8d0263f87e710d5dfbbc2e) | 2026-11-19T19:37:23+00:00 |  |
+| PrompTugal__News__Data | `data/by-place/now/castro-marim.json` | [bd410a7376](https://github.com/PrompTugal/PrompTugal__News__Data/commit/bd410a73762d6b0a755da0a946556d6e47d54c8e) | 2026-11-21T07:14:13+00:00 |  |
+| PrompTugal__News__Data | `data/events/by-place/castro-marim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `data/social/by-place/castro-marim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `discovery/by-place/castro-marim/2026-11-18.json` | [16239be9f7](https://github.com/PrompTugal/PrompTugal__News__Data/commit/16239be9f71eb31e42c4470079daec27bc6ad991) | 2026-11-18T14:20:34+00:00 |  |
+| PrompTugal__News__Data | `discovery/claims/by-place/castro-marim.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__Agent__Conductor | `history/board/briefs/2026-11-16-home-page-by-place.md` | [486b32de13](https://github.com/PrompTugal/PrompTugal__Agent__Conductor/commit/486b32de1382947f541ff0986d690a8987b39f30) | 2026-11-26T01:44:37+00:00 | shared;  |
